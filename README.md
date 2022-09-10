@@ -16,7 +16,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Demo
 
-Live link: https://bdbusticket.firebaseapp.com
+<!-- Live link: https://bdbusticket.firebaseapp.com -->
 
 ## Running unit tests
 
